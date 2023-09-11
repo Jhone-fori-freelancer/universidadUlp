@@ -42,6 +42,8 @@ public class UniversidadUlp {
         //System.out.println("NOMBRE: "+ materiaEncontrada.getNombre()+" AÑO: "+ materiaEncontrada.getAnioMateria());
         
         mate.modificarMateria(mat);
+        mate.eliminarMateria(1);
+        
 
     }
 
